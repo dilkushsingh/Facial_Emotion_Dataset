@@ -35,5 +35,5 @@ The **train_dir/** and **test_dir/** data has been splitted in 80-20 ratio.
 Clone this repository to your local machine to obtain the dataset:
 
 ```bash
-git clone git clone https://github.com/dilkushsingh/Facial_Emotions_Dataset.git
-cd Facial_Emotions_Dataset
+git clone git clone https://github.com/dilkushsingh/Facial_Emotion_Dataset.git
+cd Facial_Emotion_Dataset
