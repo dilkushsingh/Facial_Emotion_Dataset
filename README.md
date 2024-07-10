@@ -30,6 +30,8 @@ The **train_dir/** and **test_dir/** data has been splitted in 80-20 ratio.
 ## Usage
 - I have used this dataset in My Project **Facial Emotion Recognizer**
 
+## Accessing the Dataset
+
 ### Downloading the Dataset
 
 Clone this repository to your local machine to obtain the dataset:
@@ -37,3 +39,24 @@ Clone this repository to your local machine to obtain the dataset:
 ```bash
 git clone git clone https://github.com/dilkushsingh/Facial_Emotion_Dataset.git
 cd Facial_Emotion_Dataset
+```
+
+### Direct Importing into Notebook
+
+You can directly import the dataset into Jupyter Notebook by following code snippet
+```bash
+pip3 install kaggle
+!kaggle datasets download -d dilkushsingh/facial-emotion-dataset
+```
+
+## Contact
+For any questions or issues related to the dataset, feel free to contact:
+
+`Email`: work.dilkushsingh@gmail.com
+`Linkedin`: https:linkedin.com/in/dilkushsingh
+`GitHub`: https:github.com/dilkushsingh
+`Portfolio`: https:dilkushsingh.github.io
+
+
+
+
