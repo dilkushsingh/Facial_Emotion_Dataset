@@ -52,10 +52,10 @@ pip3 install kaggle
 ## Contact
 For any questions or issues related to the dataset, feel free to contact:
 
-`Email`: work.dilkushsingh@gmail.com
-`Linkedin`: https:linkedin.com/in/dilkushsingh
-`GitHub`: https:github.com/dilkushsingh
-`Portfolio`: https:dilkushsingh.github.io
+- `Email`: work.dilkushsingh@gmail.com
+- `Linkedin`: [Dilkush Singh](https:linkedin.com/in/dilkushsingh)
+- `GitHub`: [Dilkush Singh](https:github.com/dilkushsingh)
+- `Portfolio`: [Portfolio](https:dilkushsingh.github.io)
 
 
 
