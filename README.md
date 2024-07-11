@@ -37,7 +37,7 @@ The **train_dir/** and **test_dir/** data has been splitted in 80-20 ratio.
 Clone this repository to your local machine to obtain the dataset:
 
 ```bash
-git clone git clone https://github.com/dilkushsingh/Facial_Emotion_Dataset.git
+git clone https://github.com/dilkushsingh/Facial_Emotion_Dataset.git
 cd Facial_Emotion_Dataset
 ```
 
@@ -53,9 +53,9 @@ pip3 install kaggle
 For any questions or issues related to the dataset, feel free to contact:
 
 - `Email`: work.dilkushsingh@gmail.com
-- `Linkedin`: [Dilkush Singh](https:linkedin.com/in/dilkushsingh)
-- `GitHub`: [Dilkush Singh](https:github.com/dilkushsingh)
-- `Portfolio`: [Portfolio](https:dilkushsingh.github.io)
+- `Linkedin`: [Dilkush Singh](https://linkedin.com/in/dilkushsingh)
+- `GitHub`: [Dilkush Singh](https://github.com/dilkushsingh)
+- `Portfolio`: [Portfolio](https://dilkushsingh.github.io)
 
 
 
